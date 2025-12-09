@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719644618909",
+    "project_id": "mad-app-93a7f",
+    "storage_bucket": "mad-app-93a7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719644618909:android:5681c2bb5363a929e4a474",
+        "android_client_info": {
+          "package_name": "com.example.timetoshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719644618909-5b3s84le93kto5t4lcb74svdte6sc3ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekKCqh3xOFwdnNwcCRS6IOMnBwoOsEwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719644618909-5b3s84le93kto5t4lcb74svdte6sc3ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
